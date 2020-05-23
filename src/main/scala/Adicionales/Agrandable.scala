@@ -1,0 +1,5 @@
+package Adicionales
+
+trait Agrandable
+{
+}

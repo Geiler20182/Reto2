@@ -1,0 +1,6 @@
+package Adicionales
+
+trait Queso
+{
+
+}
